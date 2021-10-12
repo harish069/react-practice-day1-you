@@ -1,0 +1,19 @@
+.App {
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  grid-gap: 5%;
+  height: 500px;
+  width: 900px;
+  margin: auto;
+  border: 2px solid black;
+}
+
+.App1 {
+  display: grid;
+  text-align: center;
+}
+
+.bold {
+  font-size: 30px;
+  font-weight: 600;
+}
